@@ -4,7 +4,7 @@ Pluto Windows 파일 관리자의 공개 소개와 개인정보처리방침입�
 
 - 사이트: https://icarus7z.github.io/
 - 개인정보처리방침: https://icarus7z.github.io/privacy.html
-- 지원: icarus.login@gmail.com
+- 지원: icarus.us1010@gmail.com
 
 빌드 도구·JavaScript·외부 글꼴·분석 도구를 사용하지 않는 정적 사이트입니다. GitHub Pages의 main 브랜치 루트에서 게시하며 `.nojekyll`을 유지합니다.
 
